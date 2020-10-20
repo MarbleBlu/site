@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /blocks
+Disallow: /js
+Disallow: /css
+Disallow: /assets
+Disallow: /img
