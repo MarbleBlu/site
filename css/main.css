@@ -2408,7 +2408,6 @@ h6 {
 
 .header__logo div,
 .header__logo img {
-  position: absolute;
   top: 0;
   left: 0;
   width: 100%;
@@ -2418,7 +2417,6 @@ h6 {
   -o-object-fit: cover;
      object-fit: cover;
   transition: opacity 0.4s cubic-bezier(0.165, 0.84, 0.44, 1) 0.05s;
-  opacity: 0;
 }
 
 @media (min-width: 992px) {
